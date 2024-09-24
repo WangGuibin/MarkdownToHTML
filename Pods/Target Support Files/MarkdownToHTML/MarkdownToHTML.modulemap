@@ -1,0 +1,6 @@
+framework module MarkdownToHTML {
+  umbrella header "MarkdownToHTML-umbrella.h"
+
+  export *
+  module * { export * }
+}

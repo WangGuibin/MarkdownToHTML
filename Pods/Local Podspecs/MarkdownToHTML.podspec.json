@@ -1,0 +1,27 @@
+{
+  "name": "MarkdownToHTML",
+  "version": "1.0.0",
+  "summary": "c语言版本cmark库 Markdow转HTML支持",
+  "description": "c语言版本Markdow转HTML工具库",
+  "homepage": "https://github.com/Wangguibin/MarkdownToHTML",
+  "authors": {
+    "CoderWGB": "864562082@qq.com"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "source": {
+    "git": "https://github.com/Wangguibin/MarkdownToHTML.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "MarkdownToHTML/cmark/**/*",
+  "resource_bundles": {
+    "MarkdownToHTML": [
+      "PrivacyInfo.xcprivacy"
+    ]
+  }
+}

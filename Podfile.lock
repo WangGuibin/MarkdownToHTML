@@ -1,0 +1,22 @@
+PODS:
+  - MarkdownToHTML (1.0.0)
+
+DEPENDENCIES:
+  - MarkdownToHTML (from `https://github.com/WangGuibin/MarkdownToHTML`, tag `1.0.0`)
+
+EXTERNAL SOURCES:
+  MarkdownToHTML:
+    :git: https://github.com/WangGuibin/MarkdownToHTML
+    :tag: 1.0.0
+
+CHECKOUT OPTIONS:
+  MarkdownToHTML:
+    :git: https://github.com/WangGuibin/MarkdownToHTML
+    :tag: 1.0.0
+
+SPEC CHECKSUMS:
+  MarkdownToHTML: ed53bcbc59994b50950b52ccdcbf0630f53641ca
+
+PODFILE CHECKSUM: eb5aa4209ed65c1e8c0a75c091f6f511427a3fa9
+
+COCOAPODS: 1.12.0

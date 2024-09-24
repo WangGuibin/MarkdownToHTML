@@ -1,0 +1,6 @@
+framework module Pods_MarkdownToHTMLDemo {
+  umbrella header "Pods-MarkdownToHTMLDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
